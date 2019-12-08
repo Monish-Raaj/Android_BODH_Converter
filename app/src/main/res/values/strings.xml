@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AM BODH Converter</string>
+    <string name="button_name">CONVERT</string>
+    <string name="editText_view">Number to be converted</string>
+    <string name="TextView_Output">Output:</string>
+    <string name="EditText_tobase">to base</string>
+    <string name="EditText_frombase">from base</string>
+    <string name="EditText_precision">precision</string>
+    <string name="result">0</string>
+</resources>
